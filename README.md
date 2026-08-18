@@ -6,26 +6,18 @@ This GitHub profile documents my progress as I learn software development, work 
 
 ## 🐺 About me
 
-* 🎓 Currently retraining as a **Fachinformatiker für Anwendungsentwicklung**
+* 🎓 Currently retraining as a **Fachinformatiker für Anwendungsentwicklung** (.02.2026-.02.2028)
 * 🐍 Learning and working with **Python**
 * ☕ Learning and working with **Java**
 * 🌱 Currently building a solid foundation in programming and software development
 * 🔧 Using **Git & GitHub** to learn version control and project workflows
 * 🧠 Interested in understanding how things work instead of just making them work
 
-## 💻 What I'm currently learning
+## 💻 Current focus
 
-My current work focuses mainly on programming fundamentals such as:
+My current work focuses on applying and expanding my programming skills through coursework and practical projects.
 
-* Variables and data types
-* Operators
-* Conditions and control structures
-* Loops
-* Functions
-* Basic program logic and algorithms
-* Pseudocode
-* Debugging and problem solving
-* Git and GitHub
+
 
 As my training progresses, this list and the projects on this profile will continue to grow.
 
