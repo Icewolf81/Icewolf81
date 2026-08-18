@@ -21,10 +21,10 @@ My current work focuses on applying and expanding my programming skills through 
 
 ### 🐍 Python
 
-**PythonFIAE_1**
+**[PythonFIAE_1](https://github.com/Icewolf81/PythonFIAE_1)**
 Early Python exercises from my training and preparation courses.
 
-**PythonFIAE_2**
+**[PythonFIAE_2](https://github.com/Icewolf81/PythonFIAE_2)**
 Further Python exercises covering different programming concepts and small programs, including game logic such as Rock Paper Scissors.
 
 **TheFarmer**
