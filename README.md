@@ -53,15 +53,15 @@ A test repository created while learning the fundamentals of Git and GitHub.
 
 **[real-firearm-names](https://github.com/Icewolf81/real-firearm-names)** 
 
-Fork of a *Project Zomboid* mod where I made a small enhancement and submitted my [first pull request](https://github.com/Deaadman/real-firearm-names/pull/1), gaining practical experience with forks, branches and contributing changes to an existing project.
+Fork of a *Project Zomboid* mod where I improved historical firearm naming, added German localization and submitted my [first pull request](https://github.com/Deaadman/real-firearm-names/pull/1), gaining practical experience with forks, commits and contributing changes to an existing project.
 
 ## 🌱 This profile is a work in progress
 
 Most repositories currently reflect exercises and learning material from my training.
 
-Over time, I intend to replace and supplement them with more independent projects as my knowledge and experience grow.
+Over time, I intend to add more independent projects as my knowledge and experience grow.
 
-The goal of this profile is not to pretend that I already know everything — it is to document what I learn and what I can build along the way.
+The goal of this profile is to document my learning progress and the projects I build along the way.
 
 ---
 
