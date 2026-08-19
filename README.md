@@ -44,6 +44,9 @@ Earlier Java exercises from my preparation course.
 **[github-basics](https://github.com/Icewolf81/github-basics)**
 A test repository created while learning the fundamentals of Git and GitHub.
 
+**[real-firearm-names](https://github.com/Icewolf81/real-firearm-names)**  
+Fork of a *Project Zomboid* mod where I made a small enhancement and submitted my [first pull request][LINK_ZUM_PR](https://github.com/Deaadman/real-firearm-names/pull/1), gaining practical experience with forks, branches and contributing changes to an existing project.
+
 ## 🌱 This profile is a work in progress
 
 Most repositories currently reflect exercises and learning material from my training.
