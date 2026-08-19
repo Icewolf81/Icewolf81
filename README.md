@@ -27,21 +27,21 @@ Early Python exercises from my training and preparation courses.
 **[PythonFIAE_2](https://github.com/Icewolf81/PythonFIAE_2)**
 Further Python exercises covering different programming concepts and small programs, including game logic such as Rock Paper Scissors.
 
-**TheFarmer**
+**[TheFarmer](https://github.com/Icewolf81/TheFarmer)**
 Experiments and automation scripts created while playing *The Farmer Was Replaced*.
 I use the game as a practical way to experiment with loops, conditions, coordinates and automation logic.
 
 ### ☕ Java
 
-**JavaFIAE**
+**[JavaFIAE](https://github.com/Icewolf81/JavaFIAE)**
 Java exercises from my FIAE training, currently covering topics such as data types, operators, control structures and pseudocode.
 
-**VBKurs**
+**[VBKurs](https://github.com/Icewolf81/VBKurs)**
 Earlier Java exercises from my preparation course.
 
 ### 🔧 Git & GitHub
 
-**github-basics**
+**[github-basics](https://github.com/Icewolf81/github-basics)**
 A test repository created while learning the fundamentals of Git and GitHub.
 
 ## 🌱 This profile is a work in progress
