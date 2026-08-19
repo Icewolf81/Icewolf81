@@ -22,29 +22,36 @@ My current work focuses on applying and expanding my programming skills through 
 ### 🐍 Python
 
 **[PythonFIAE_1](https://github.com/Icewolf81/PythonFIAE_1)**
+
 Early Python exercises from my training and preparation courses.
 
 **[PythonFIAE_2](https://github.com/Icewolf81/PythonFIAE_2)**
+
 Further Python exercises covering different programming concepts and small programs, including game logic such as Rock Paper Scissors.
 
 **[TheFarmer](https://github.com/Icewolf81/TheFarmer)**
+
 Experiments and automation scripts created while playing *The Farmer Was Replaced*.
 I use the game as a practical way to experiment with loops, conditions, coordinates and automation logic.
 
 ### ☕ Java
 
 **[JavaFIAE](https://github.com/Icewolf81/JavaFIAE)**
+
 Java exercises from my FIAE training, currently covering topics such as data types, operators, control structures and pseudocode.
 
 **[VBKurs](https://github.com/Icewolf81/VBKurs)**
+
 Earlier Java exercises from my preparation course.
 
 ### 🔧 Git & GitHub
 
 **[github-basics](https://github.com/Icewolf81/github-basics)**
+
 A test repository created while learning the fundamentals of Git and GitHub.
 
-**[real-firearm-names](https://github.com/Icewolf81/real-firearm-names)**  
+**[real-firearm-names](https://github.com/Icewolf81/real-firearm-names)** 
+
 Fork of a *Project Zomboid* mod where I made a small enhancement and submitted my [first pull request](https://github.com/Deaadman/real-firearm-names/pull/1), gaining practical experience with forks, branches and contributing changes to an existing project.
 
 ## 🌱 This profile is a work in progress
