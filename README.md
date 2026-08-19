@@ -9,6 +9,7 @@ This GitHub profile documents my progress as I learn software development, work 
 * 🎓 Currently retraining as a **Fachinformatiker für Anwendungsentwicklung** (02/2026-02/2028)
 * 🐍 Learning and working with **Python**
 * ☕ Learning and working with **Java**
+* 🧩 Working with **Lua** and **Ren'Py** for scripting and modding projects
 * 🌱 Currently building a solid foundation in programming and software development
 * 🔧 Using **Git & GitHub** to learn version control and project workflows
 * 🧠 Interested in understanding how things work instead of just making them work
